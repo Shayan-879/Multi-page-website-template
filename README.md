@@ -1,5 +1,5 @@
 
-##🚀 Features
+## 🚀 Features
 
 Fully responsive layout
 
