@@ -32,7 +32,3 @@ It is created as a practice project to learn basic web development.
 ## Technologies Used
 - HTML
 - CSS
-
-## Author
-- Your Name (Devix)
-
