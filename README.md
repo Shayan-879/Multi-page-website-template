@@ -17,6 +17,9 @@ Includes fonts, images, and reusable components
 1. Clone or download this repository.
 2. Open the `index.html` file in your web browser.
 
+<!-- 
 ## Technologies Used
 - HTML
 - CSS
+-->
+
